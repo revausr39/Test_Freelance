@@ -8,6 +8,8 @@ To view Allure reports, enter in pycharm terminal:
 allure serve /tmp/my_allure_results
 
 Required Packages:
+set environment variables for python, Allure and webdrivers
+
 Install allure : https://docs.qameta.io/allure/#_installing_a_commandline
 
 packages installed (run pip freeze)

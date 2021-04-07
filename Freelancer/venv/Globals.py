@@ -6,6 +6,7 @@ import pytest
 import selenium
 from allure_commons.types import AttachmentType
 from faker import Faker
+import urllib
 
 # Chrome drivers  -------------------------------------------------------------------------------------
 from selenium.webdriver.chrome.options import Options

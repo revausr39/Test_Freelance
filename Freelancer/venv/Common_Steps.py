@@ -9,7 +9,7 @@ def Go_to_site():
 
 @allure.step
 def enter_username():
-    rand_email = 'some_email_' + str(random.randrange(1,100)) + '@testemail.com'
+    rand_email = 'someemail' + str(random.randrange(1, 1000)) + '@testemail.com'
     driver.find_element_by_xpath(new_username).send_keys(rand_email)
 
 @allure.step
