@@ -20,7 +20,6 @@ def enter_password():
 def check_user_agreement():
     driver.find_element_by_xpath('/html/body/app-root/app-logged-out-shell/app-signup-page/fl-container/fl-bit/app-sign'
                                  'up/app-details-form/form/fl-bit/fl-label/fl-text/span/label/fl-text/div').click()
-                                    #Cannot be referenced, since it will be turned into json.
 
 @allure.step
 def join_button():
