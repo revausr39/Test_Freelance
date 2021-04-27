@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91fd4423-96dd-4cbb-8655-689dc76fa1fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Common_Steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Common_Steps.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617755802794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added driver close">
+      <created>1617759779886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617759779886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,10 +109,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617718310986" />
-    <state x="457" y="90" width="1210" height="831" key="CommitChangelistDialog2" timestamp="1617755811986">
+    <state x="457" y="90" width="1210" height="831" key="CommitChangelistDialog2" timestamp="1617759779311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="457" y="90" width="1210" height="831" key="CommitChangelistDialog2/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617755811986" />
+    <state x="457" y="90" width="1210" height="831" key="CommitChangelistDialog2/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617759779311" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1617719879035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,14 +141,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="242" key="RollbackChangesDialog/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617755846130" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1617754976818">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1617792268353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617754976818" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1617755685649">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617792268353" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1617759787662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617755685649" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.190.1600.860@0.0.1920.1040" timestamp="1617759787662" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617754651938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
