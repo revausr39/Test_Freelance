@@ -1,3 +1,5 @@
+Locate Project in Pycharm
+
 To Run tests with allure reporting, enter in pycharm terminal:
 pytest --alluredir=/tmp/my_allure_results TestCases.py
 
@@ -8,8 +10,6 @@ To view Allure reports, enter in pycharm terminal:
 allure serve /tmp/my_allure_results
 
 Required Packages:
-set environment variables for python, Allure and webdrivers
-
 Install allure : https://docs.qameta.io/allure/#_installing_a_commandline
 
 packages installed (run pip freeze)
@@ -35,5 +35,9 @@ six==1.15.0
 text-unidecode==1.3
 toml==0.10.2
 urllib3==1.26.4
+
+run robot wit allure
+robot --listener allure_robotframework;/tmp/result ./qa_interview.robot
+
 
 
