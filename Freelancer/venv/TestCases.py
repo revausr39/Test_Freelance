@@ -15,7 +15,7 @@ def test_TC01():
     select_suggestion()
     time.sleep(3)
     want_to_hire()
-    time.sleep(3)
+    time.sleep(5)
     url_post = driver.current_url
     allure.attach(driver.get_screenshot_as_png(), name="Post Project Page_Screens", attachment_type=AttachmentType.PNG)
     assert 'https://www.freelancer.com/post-project?onboard=true' in url_post
